@@ -3,7 +3,7 @@
 
 - 📝 I regularly write articles on [https://hanbijang.github.io/](https://hanbijang.github.io/)
 
-- 💬 Ask me about **C#, C++, Unity, Unreal Engine,**
+- 💬 Ask me about ** C++, Unity, Unreal Engine,**
 
 - 📫 How to reach me **hanbijang.dev@gmail.com**
 
